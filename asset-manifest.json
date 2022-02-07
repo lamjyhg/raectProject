@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/raectProject/static/css/main.073c9b0a.css",
-    "main.js": "/raectProject/static/js/main.c57bba7f.js",
+    "main.js": "/raectProject/static/js/main.7ec3a493.js",
     "static/js/787.03a10ad2.chunk.js": "/raectProject/static/js/787.03a10ad2.chunk.js",
     "static/media/logo.svg": "/raectProject/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/raectProject/index.html",
     "main.073c9b0a.css.map": "/raectProject/static/css/main.073c9b0a.css.map",
-    "main.c57bba7f.js.map": "/raectProject/static/js/main.c57bba7f.js.map",
+    "main.7ec3a493.js.map": "/raectProject/static/js/main.7ec3a493.js.map",
     "787.03a10ad2.chunk.js.map": "/raectProject/static/js/787.03a10ad2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.c57bba7f.js"
+    "static/js/main.7ec3a493.js"
   ]
 }
